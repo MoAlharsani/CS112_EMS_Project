@@ -1,0 +1,14 @@
+.button {
+    -fx-text-fill: white;
+    -fx-background-color: rgba(91, 9, 154, 0.3);
+    -fx-background-radius: 0;
+    -fx-padding: 10px 25px;
+    -fx-text-align: center;
+}
+
+.text-field {
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-background-color: -fx-focus-color, -fx-background ;
+}
+

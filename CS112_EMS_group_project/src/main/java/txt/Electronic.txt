@@ -1,0 +1,5 @@
+itemID,ItemName,brand,model,year,Price
+1001,Mobil_phone,Apple,iphone,2018,1500.0
+1002,Laptop,Dell,XPS,2020,1850
+1003,Mobil_phone,Apple,iphone,2018,1500.0
+
