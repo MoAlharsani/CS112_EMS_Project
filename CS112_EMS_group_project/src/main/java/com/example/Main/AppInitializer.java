@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 
 public class AppInitializer extends Application {
-    static ArrayList<User> users = new ArrayList<>();
+    public static ArrayList<User> users = new ArrayList<>();
     public static ArrayList<Electronics> electronics = new ArrayList<>();
     public static ArrayList<Clothes> clothes = new ArrayList();
 
