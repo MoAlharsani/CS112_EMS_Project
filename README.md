@@ -1,3 +1,7 @@
+
+E-store management system
+
+
 This is my first GUI project, it's mainly written in java, with some CSS for styling.
 
 The project was a team project for a java programming course.
